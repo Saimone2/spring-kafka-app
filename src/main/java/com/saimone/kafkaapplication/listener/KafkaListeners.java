@@ -1,4 +1,4 @@
-package com.saimone.kafkaapplication;
+package com.saimone.kafkaapplication.listener;
 
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Component;
