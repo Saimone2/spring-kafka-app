@@ -6,4 +6,4 @@ The application has one topic on which data is transferred from the producer to 
 
 To transfer data to Kafka, you need to send a post request with a json message body to the endpoint. (producer)
 
-In order to receive a message, you need to create a listener with the annotation @KafkaListener, which will accept the string type of the transmitted information. In my case, we output information to the console.
+In order to receive a message, you need to create a listener with the annotation @KafkaListener, which will accept the string type of the transmitted information. In my case, we output information to the console. (consumer)
