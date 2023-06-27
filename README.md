@@ -1,4 +1,4 @@
-# spring-kafka-application
+# spring-kafka-app
 
 A Spring Boot Restful API that integrates with the Kafka ecosystem. Apache Kafka is an open source distributed event streaming platform used by thousands of companies for high-performance data pipelines.
 
